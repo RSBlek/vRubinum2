@@ -1,0 +1,30 @@
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\bin\Debug\netcoreapp2.2\vRubinum2.Test.deps.json
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\bin\Debug\netcoreapp2.2\vRubinum2.Test.runtimeconfig.json
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\bin\Debug\netcoreapp2.2\vRubinum2.Test.runtimeconfig.dev.json
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\bin\Debug\netcoreapp2.2\vRubinum2.Test.dll
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\bin\Debug\netcoreapp2.2\vRubinum2.Test.pdb
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\bin\Debug\netcoreapp2.2\vMt2.Data.dll
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\bin\Debug\netcoreapp2.2\vMt2.dll
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\bin\Debug\netcoreapp2.2\vMt2.pdb
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\bin\Debug\netcoreapp2.2\vMt2.Data.pdb
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.csprojAssemblyReference.cache
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.csproj.CoreCompileInputs.cache
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.AssemblyInfoInputs.cache
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.AssemblyInfo.cs
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.csproj.CopyComplete
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.dll
+C:\Users\Artur Blek\source\repos\vRubinum\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.pdb
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.csprojAssemblyReference.cache
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.csproj.CoreCompileInputs.cache
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.AssemblyInfoInputs.cache
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.AssemblyInfo.cs
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.dll
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.pdb
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\bin\Debug\netcoreapp2.2\vRubinum2.Test.deps.json
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\bin\Debug\netcoreapp2.2\vRubinum2.Test.runtimeconfig.json
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\bin\Debug\netcoreapp2.2\vRubinum2.Test.runtimeconfig.dev.json
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\bin\Debug\netcoreapp2.2\vRubinum2.Test.dll
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\bin\Debug\netcoreapp2.2\vRubinum2.Test.pdb
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\bin\Debug\netcoreapp2.2\vMt2.dll
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\bin\Debug\netcoreapp2.2\vMt2.pdb
+C:\Users\Artur Blek\source\repos\vRubinum - Kopie\vRubinum2.Test\obj\Debug\netcoreapp2.2\vRubinum2.Test.csproj.CopyComplete

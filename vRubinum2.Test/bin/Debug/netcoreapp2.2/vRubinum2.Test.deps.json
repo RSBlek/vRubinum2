@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "vRubinum2.Test/1.0.0": {
+        "dependencies": {
+          "vMt2": "1.0.0"
+        },
+        "runtime": {
+          "vRubinum2.Test.dll": {}
+        }
+      },
+      "vMt2/1.0.0": {
+        "runtime": {
+          "vMt2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vRubinum2.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "vMt2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
